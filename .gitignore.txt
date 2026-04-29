@@ -1,0 +1,32 @@
+# Папки сборки
+Debug/
+Release/
+x64/
+x86/
+ARM/
+ARM64/
+
+# Временные файлы и кэши
+*.tlog
+*.lastbuildstate
+*.log
+*.obj
+*.ilk
+*.pdb
+*.pch
+*.exe
+*.dll
+*.lib
+*.exp
+*.idb
+*.suo
+*.user
+ipch/
+*.sdf
+*.opensdf
+
+# NuGet (если используется старый packages.config)
+packages/
+
+# Visual Studio Code
+.vscode/
